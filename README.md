@@ -11,7 +11,7 @@ Here the reported score is the [average incremental accuracy](https://arxiv.org/
 ## 2017:
 
 | Name | Paper | Code | Increment | Memory setting | Task label in inference | Score | Last |
-|:-----|:–----:|:–---:|:---------:|:--------------:|:-----------------------:|:-----:|:----:|
+|:–----:|:–----:|:–----:|:–----:|:–----:|:–----:|:–----:|:–----:|
 | iCaRL|[pdf](https://arxiv.org/abs/1611.07725)|[code](https://github.com/srebuffi/iCaRL)|100|M_total=20000|No|63.80|45.00|
 
 # ImageNet1000
